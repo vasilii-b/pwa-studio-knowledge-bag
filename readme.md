@@ -15,3 +15,16 @@
 - SSR Tools:
    - [prerender.io](prerender.io)
    - [seosnap.io](seosnap.io)
+
+
+## Tips&Tricks
+
+##### Linking to a static file
+
+ℹ️ The information has been taken from the #pwa Slack channel.
+
+💡 _Thanks to Kristof Ringleff, Fooman for the question and possible workaround._
+
+> Q: I am trying to link to a static pdf file. It's fine on upward as I can curl the file url directly. However when I add a link to a page to download this file react-router kicks in. As it's not a defined route useMagentoRoute kicks in and queries the back-end urlResolver for it which doesn't know about the file ending up as a 404. Any thoughts on how to tackle this? Ideally without having to teach the backend new tricks.
+
+> A: Used `<Link>` so far and changing it to just `<a>` seems to avoid the issue.
