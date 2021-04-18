@@ -9,6 +9,7 @@
 - [Simplifying Targetables in PWA Studio](https://dev.to/chrisbrabender/simplifying-targetables-in-pwa-studio-p8b)
 - [How to add support for Category Landing Pages to PWA Studio](https://marcin-kwiatkowski.com/how-to-add-support-for-category-landing-pages-to-pwa-studio)
 - ["How to build a high-quality PWA Studio extension" OR "How to use the PWA Studio extension generator"](https://marcin-kwiatkowski.com/how-to-build-a-high-quality-pwa-studio-extension)
+- [Example of extending CMS page title using talon wrapping](https://github.com/Atwix/pwa-studio-examples/pull/1/files)
 
 ## SEO
 
