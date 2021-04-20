@@ -15,6 +15,7 @@
 
 - [Server-Side vs Client-Side Rendering And Changing SEO Practices](https://magento.com/blog/technical/server-side-vs-client-side-rendering-and-changing-seo-practices)
 - [PWA Studio Content rendering approach](https://magento.github.io/pwa-studio/technologies/basic-concepts/content-rendering/)
+- 📹 [How to install Rendertron for Magento PWA Studio to use SSR (Server-side Rendering)](https://www.youtube.com/watch?v=Ux0G80zPcuA)
 - SSR Tools:
    - [prerender.io](prerender.io)
    - [seosnap.io](seosnap.io)
