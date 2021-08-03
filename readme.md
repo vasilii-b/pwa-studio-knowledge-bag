@@ -11,6 +11,9 @@
 - ["How to build a high-quality PWA Studio extension" OR "How to use the PWA Studio extension generator"](https://marcin-kwiatkowski.com/how-to-build-a-high-quality-pwa-studio-extension)
 - [Example of extending CMS page title using talon wrapping](https://github.com/Atwix/pwa-studio-examples/pull/1/files)
 
+## CORS/Caching
+- https://fooman.com/blog/magento-2-graphql-getting-off-cors.html
+
 ## SEO
 
 - [Server-Side vs Client-Side Rendering And Changing SEO Practices](https://magento.com/blog/technical/server-side-vs-client-side-rendering-and-changing-seo-practices)
